@@ -19,6 +19,8 @@ There are several options for installation:
       * pip install --user
 
   * From a fresh git checkout:
+  
+      * pip install -r requirements.txt
 
       * python setup.py develop
 
