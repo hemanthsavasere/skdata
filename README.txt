@@ -16,7 +16,7 @@ There are several options for installation:
 
   * From scratch:
 
-      * pip install --user
+      * pip install --user skdata
 
   * From a fresh git checkout:
   
